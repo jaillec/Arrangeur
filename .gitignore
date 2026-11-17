@@ -1,0 +1,24 @@
+# Cache et fichiers compilés Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+ENV/
+
+# Dossiers des éditeurs de code (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Fichiers temporaires du système (Windows / macOS)
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Optionnel : Décommentez la ligne ci-dessous si vous ne voulez pas envoyer 
+# vos sauvegardes personnelles (rythmes/morceaux JSON) sur GitHub
+# data/
